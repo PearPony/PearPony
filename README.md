@@ -6,7 +6,7 @@ Check out my [repositories](https://github.com/mewostick?tab=repositories) if yo
 ---
 
 <p align="center">
-    <img src="https://i.pinimg.com/236x/b5/22/37/b52237d81c664362924b268a43fa28dc.jpg" width="250">
-    <img src="https://i.pinimg.com/736x/92/ca/92/92ca925fa0d03a796af297708a2c379c.jpg" width="187">
+    <img src="https://github.com/mewostick/mewostick/blob/main/68747470733a2f2f692e70696e696d672e636f6d2f323336782f62352f32322f33372f62353232333764383163363634333632393234623236386134336661323864632e6a7067.jpg?raw=true" width="250">
+    <img src="https://github.com/mewostick/mewostick/blob/main/68747470733a2f2f692e70696e696d672e636f6d2f373336782f39322f63612f39322f39326361393235666130643033613739366166323937373038613263333739632e6a7067.jpg?raw=true" width="187">
   
 </p>
