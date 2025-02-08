@@ -1,5 +1,5 @@
 ## Hiya! / Cześć! / Привет! 👋
-I'm interested in computers, websites, operating systems and various other things.
+I'm interested in computers, websites, operating systems and various other things. I like working with HTML+CSS, JavaScript and C++.
 
 Check out my [repositories](https://github.com/mewostick?tab=repositories) if you're interested in Microsoft Windows tweaking, simple scripts and perhaps some website stuff!
 
